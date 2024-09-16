@@ -32,7 +32,31 @@ dependencies:
   google_sign_in: ^6.2.1
 
   # for accessing cloud firestore database
-  cloud_firestore: ^5.2.1
+  cloud_firestore: ^5.4.1
+
+  # For showing network images  
+  cached_network_image: ^3.4.1
+
+  # For picking images
+  image_picker: ^1.1.2
+
+  # For accessing Firebase Storage (for uploading files)
+  firebase_storage: ^12.3.0
+
+  # For showing Emojis
+  emoji_picker_flutter: ^3.0.0
+
+  # For accessing firebase messaging (Push Notification)
+  firebase_messaging: ^15.1.1
+
+  # For calling RestAPIs
+  http: ^1.2.2
+
+  # For creating notification channel
+  flutter_notification_channel: ^3.1.0
+
+  # # For storing images into gallery
+  # gallery_saver: ^2.3.2
   
 dev_dependencies:
   flutter_test:
