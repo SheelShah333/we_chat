@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final List <ChatUser> _searchList = [];
 
   // for storing search status
-  bool _isSearching=false;
+  bool _isSearching = false;
 
 
   @override
